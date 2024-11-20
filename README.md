@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kallol.
-- 👀 I’m interested coding.
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning JavaScript.
 
 <!---
